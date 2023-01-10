@@ -1,5 +1,3 @@
-
-
 let verify = (input) => {
     let s = input.trim(), pairs = [];
     const stack = [];
